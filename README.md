@@ -1,4 +1,4 @@
-# Uber-case-study
+# Stock Market Exchange using SQL
 
 ## 5 year stocks report
 
